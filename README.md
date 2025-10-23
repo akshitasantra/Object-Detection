@@ -10,8 +10,6 @@ This project was for me to explore computer cision and object detection using pr
 # Example Output
 <img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/b4a8bc37-0dd0-4cca-8d3d-66a3a2495bb6" />
 
-<img width="640" height="480" alt="Figure_4" src="https://github.com/user-attachments/assets/13b6370b-5dfa-42df-9227-e08e2ed2d74c" />
-
 <img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/04e18994-0952-4fd8-b2d0-747cabdf94c9" />
 
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/9c4bf6d5-2810-4544-a025-b79f84e473ae" />
