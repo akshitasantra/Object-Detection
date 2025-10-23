@@ -1,5 +1,5 @@
 # Object-Detection with PyTorch and OpenCV
-This project was for me to explore computer cision and object detection using pre-trained Faster R-CNN model from PyTorch's torchvision library. It detects objects in real-world images (like people or everyday items) and draws labeled bounding boxes around them.
+This project was for me to explore computer vision and object detection using pre-trained Faster R-CNN model from PyTorch's torchvision library. It detects objects in real-world images (like people or everyday items) and draws labeled bounding boxes around them.
 
 # Features
 - Uses Faster R-CNN ResNet-50 FPN pretrained on the COCO dataset
